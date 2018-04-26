@@ -6,7 +6,7 @@ Thanks a lot to @trivago, @mre and @xo4n !
 
 ## Related Repositories
 
-The Services which have been created for this thesis are open sourcde and published under the trivago namespace:
+The Services which have been created for this thesis are open sourced and published under the trivago namespace:
 
 - [https://github.com/trivago/exporter-edgecast](https://github.com/trivago/exporter-edgecast)
 
