@@ -1,6 +1,6 @@
 # Refactoring a Monolith into Microservices - An Engineering-Driven Approach
 
-This repository contains the PDF-Build of my bachelor thesis which I wrote in collaboration with the Web-Performance team at trivago N.V.
+This repository contains the [PDF-Build](./bachelor_thesis-thorsten_klein.pdf) of my bachelor thesis which I wrote in collaboration with the Web-Performance team at trivago N.V.
 
 Thanks a lot to @trivago, @mre and @xo4n !
 
